@@ -40,5 +40,9 @@ public class Aula {
 		System.out.println("O resultado da subtração: " + sub);
 
 		a.soma (2, 5);
+
+		for (int i = 0; i < 5; i++){
+			a.soma(x2, i);
+		}
  	}
 }
