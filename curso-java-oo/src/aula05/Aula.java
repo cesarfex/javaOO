@@ -49,6 +49,7 @@ public class Aula {
 		short d1 = d; // não é possível converter int para short
 		int d2 = d1; //note que do int(maior) para short(menor) é possível
 
+		// na soma entre a(int) + b(long) o resultao será sempre o maior tipo entre os valores sendo somados, no caso um long
 
 	}
 
