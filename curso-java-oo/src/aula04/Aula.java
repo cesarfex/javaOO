@@ -7,7 +7,6 @@ public class Aula {
 	String y = "Olá";
 	String z = "Mundo!";
 
-
 	/*todo método criado deve ser definido um tipo de retorno
 	no exemplo abaixo é criado método com retorno do tipo "void" que é um método de retorno vazio*/
 
